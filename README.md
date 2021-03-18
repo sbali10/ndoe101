@@ -10,4 +10,4 @@
 > node index.js
 
 
-#Open http://127.0.0.1:3000/ or http://localhost:3000/ on browser
+#Open http://127.0.0.1:3000/ or http://localhost:3000/ on your browser
